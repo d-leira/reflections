@@ -1,0 +1,7 @@
+O que acontece ao iniciar um repositório?
+Por que voce precisa fazer isso?
+
+Iniciar um repositorio cria a estrutura de um
+repositorio e assim podemos começar a ter controle
+das versões dos nossos arquivo
+

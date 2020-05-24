@@ -1,0 +1,4 @@
+Através da diferença entre dois arquivos
+podemos obter as linhas que foram alteradas
+e assim descobrir se existe algum erro de 
+digitação ou sintaxe.
